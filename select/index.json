@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "96猫 『嘘の火花』",
+  "base_artist": "96猫",
+  "createdAt": "2025-12-08T14:02:24.754888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嘘の火花",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/01_嘘の火花_96猫.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "嘘の火花",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/02_嘘の火花_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "嘘の火花",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/03_嘘の火花_96猫.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "嘘の火花",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/04_嘘の火花_96猫.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "嘘の火花",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/05_嘘の火花_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "嘘の火花 -Instrumental-",
+      "artist": "Kuroneko",
+      "has_synced": false,
+      "path": "select/06_嘘の火花_-Instrumental-_Kuroneko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘘の火花",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/pl_01_嘘の火花_96猫.txt"
+    }
+  ]
+}
